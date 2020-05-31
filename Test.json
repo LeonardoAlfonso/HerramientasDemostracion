@@ -1,5 +1,6 @@
 {
     "nombre" : "Leonardo",
     "edad" : 32,
-    "carro" : "Mazda"
+    "carro" : "Mazda",
+    "comidaFavorita" : "Pasta"
 }
